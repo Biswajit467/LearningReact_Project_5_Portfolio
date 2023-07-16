@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "date": "07/03/2023",
+      "title": "TECH SOS",
+      "description": "This is the sample description about the project. To know more about this project kindly click on the 𝐕𝐢𝐞𝐰 𝐃𝐞𝐦𝐨 Button bellow",
+      "url": "https://techsos.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "29/03/2023",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project. To know more about this project kindly click on the 𝐕𝐢𝐞𝐰 𝐃𝐞𝐦𝐨 Button bellow",
+      "url": "https://practice-website-seven.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/05/2023",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project. To know more about this project kindly click on the 𝐕𝐢𝐞𝐰 𝐃𝐞𝐦𝐨 Button bellow",
+      "url": "https://coin-star-crypto.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "22/06/2023",
+      "title": "CART APP",
+      "description": "This is the sample description about the project. To know more about this project kindly click on the 𝐕𝐢𝐞𝐰 𝐃𝐞𝐦𝐨 Button bellow",
+      "url": "https://cart-system-eight.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "11/07/2023",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project. To know more about this project kindly click on the 𝐕𝐢𝐞𝐰 𝐃𝐞𝐦𝐨 Button bellow",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
