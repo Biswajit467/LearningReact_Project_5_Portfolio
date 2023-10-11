@@ -5,18 +5,19 @@ import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import me from "../assets/img1.png";
 
 const Home = ({ ratio }) => {
-  const clientCount = useRef(null);
+  // const clientCount = useRef(null);
   const ProjectCount = useRef(null);
 
-  const animationClientsCount = () => {
-    animate(0, 100, {
-      duration: 1,
-      onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
-    });
-  };
+
+  // const animationClientsCount = () => {
+  //   animate(0, 1, {
+  //     duration: 1,
+  //     onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
+  //   });
+  // };
 
   const animationProjectsCount = () => {
-    animate(0, 500, {
+    animate(0, 11, {
       duration: 1,
       onUpdate: (v) => (ProjectCount.current.textContent = v.toFixed()),
     });
@@ -70,7 +71,7 @@ const Home = ({ ratio }) => {
             </a>
           </div>
 
-          <article>
+          {/* <article>
             <p>
               +
               {ratio < 2 && (
@@ -81,7 +82,7 @@ const Home = ({ ratio }) => {
               )}
             </p>
             <span>Clients Worldwide</span>
-          </article>
+          </article> */}
 
           <aside>
             <article>
